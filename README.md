@@ -8,5 +8,5 @@
 
 
 ### SonicAnimation<br />
-+ Simpler project used when I was first learning how to rig using Maya.
++ Simple project used when I was first learning how to rig using Maya.
 
