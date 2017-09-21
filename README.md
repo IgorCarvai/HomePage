@@ -3,7 +3,7 @@ Display of some projects and code
 
 Projects:
 
-Chain Reaction-
+[Contribution guidelines for this project](SampleProjects/tree/master/ChainReaction)Chain Reaction-
 Maya based project using animation to cause a chain reaction.
 
 SonicAnimation-
