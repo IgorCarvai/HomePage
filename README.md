@@ -1,13 +1,12 @@
 # SampleProjects
-Display of some projects and code
+Display of some projects and code.
 
-Projects:
-
-[Contribution guidelines for this project](SampleProjects/tree/master/ChainReaction)Chain Reaction-
+Projects<br \>
+Chain Reaction<br />
 Maya based project using animation to cause a chain reaction.
 
-SonicAnimation-
+SonicAnimation<br />
 Simpler project used when I was first learning how to rig using Maya.
 
-Garden-
+Garden<br />
 Maya based project using lighing and Mesh lighting to create a pandora-like garden.
