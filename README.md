@@ -1,7 +1,7 @@
 # SampleProjects
 Display of some projects and code.
 
-Projects<br />
+***Projects:***<br />
 Chain Reaction<br />
 Maya based project using animation to cause a chain reaction.
 
