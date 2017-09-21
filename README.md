@@ -1,9 +1,9 @@
 # Projects:<br />
 ### Chain Reaction<br />
-Maya based project using animation to cause a chain reaction.
+⋅⋅⋅Maya based project using animation to cause a chain reaction.⋅⋅⋅
 
 ### SonicAnimation<br />
-Simpler project used when I was first learning how to rig using Maya.
+⋅⋅⋅Simpler project used when I was first learning how to rig using Maya.⋅⋅⋅
 
 ### Garden<br />
-Maya based project using lighing and Mesh lighting to create a pandora-like garden.
+⋅⋅⋅Maya based project using lighing and Mesh lighting to create a pandora-like garden.⋅⋅⋅
