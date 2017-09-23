@@ -1,7 +1,7 @@
 # Projects:<br />
 
 ### Garden<br />
-+ Maya based project using lighing and Mesh lighting to create a pandora-like garden.<br />
++ Maya based project using lighting and Mesh lighting to create a pandora-like garden.<br />
 <img src="Garden/images/test3.jpg" width="300" height="300"> <img src="Garden/images/test4.jpg" width="300" height="300"> <img src="Garden/images/test2.jpg" width="400" height="400">
 
 ### Cat Animation<br />
