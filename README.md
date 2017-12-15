@@ -20,6 +20,9 @@ Full video:<br />
 + Simple project used when I was first learning how to rig using Maya.<br />
 <img src="SonicAnimation/images/SonicModel.PNG" width="300" height="350"> <img src="SonicAnimation/images/SonicModel2.PNG" width="300" height="350"> <img src="SonicAnimation/images/SonicModel1.PNG" width="300" height="350"> <img src="SonicAnimation/images/Animation.gif" width="600" height="338">
 
+### Pacman<br />
++ Pacman game made out of unity. <br />
+<img src="Pac-Man/Pacman.gif" width="800" height="450"> 
 
 ### MDP Tower Defence Game<br />
 + Unity based project where my team programmed an AI to play our tower defence game using MDP.<br />
