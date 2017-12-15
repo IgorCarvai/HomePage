@@ -24,6 +24,11 @@ Full video:<br />
 + Pacman game made out of unity. <br />
 <img src="Pac-Man/Pacman.gif" width="800" height="450"> 
 
+### Live Coding<br />
+Solo act using The Force by Shawn Lawson.<br />
+<img src="LiveCoding/LiveCoding.gif" >
+
+
 ### MDP Tower Defence Game<br />
 + Unity based project where my team programmed an AI to play our tower defence game using MDP.<br />
 <img src="MDP-TowerDefense/Tower Defense.gif" width="800" height="450"> 
