@@ -30,5 +30,9 @@ Full video:<br />
 <img src="Dynamic Movement/DynamicMovement.gif" width="800" height="450"> 
 
 ### Collision Avoidance<br />
-+ Unity based project for a formation taht path follows, collision preditics, and cone checks.<br />
++ Unity based project for a formation that path follows, collision preditics, and cone checks.<br />
 <img src="Collision Avoidance/SpiralWave.gif" width="600" height="338"> <img src="Collision Avoidance/SinWave.gif" width="600" height="338"> 
+
+### Path Finding<br />
++ Unity based project that does text based map generating, tile based path finding, waypoint path finding, eudlidian and manhatan pathfinding. <br />
+<img src="PathFinding/Manhatan.gif" width="800" height="450"> <img src="PathFinding/Euclidian.gif" width="800" height="450"> 
