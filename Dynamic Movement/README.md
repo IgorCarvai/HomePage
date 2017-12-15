@@ -4,7 +4,6 @@ Collaboration with:
 Igor Carvalho 
 Jeremy Torella
 Enoch Huang
-This is the second homework for RPI's Game AI course Fall 2017.
 
 In our game, Jerry the mouse uses pathfinding to collect wedges of cheese. 
 Meanwhile, Tom the cat dynamically wanders around the screen until Jerry comes within Tom's search radius.
