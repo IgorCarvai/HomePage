@@ -21,11 +21,11 @@ Full video:<br />
 <img src="SonicAnimation/images/SonicModel.PNG" width="300" height="350"> <img src="SonicAnimation/images/SonicModel2.PNG" width="300" height="350"> <img src="SonicAnimation/images/SonicModel1.PNG" width="300" height="350"> <img src="SonicAnimation/images/Animation.gif" width="600" height="338">
 
 ### Pacman<br />
-+ Pacman game made out of unity. <br />
++ Pacman game made out on unity. <br />
 <img src="Pac-Man/Pacman.gif" width="800" height="450"> 
 
 ### Live Coding<br />
-Solo act using The Force by Shawn Lawson.<br />
++ Solo act using The Force by Shawn Lawson.<br />
 <img src="LiveCoding/LiveCoding.gif" >
 
 
