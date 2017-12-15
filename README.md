@@ -26,5 +26,9 @@ Full video:<br />
 <img src="MDP-TowerDefense/Tower Defense.gif" width="800" height="450"> 
 
 ### Dynamic Movement<br />
-+ Unity based project where my team programmed two AIs, one that does pathfinding and dynamic evade while the other dynamicly wanders, pursues and arrives..<br />
++ Unity based project where my team programmed two AIs, one that does pathfinding and dynamic evade while the other dynamicly wanders, pursues and arrives.<br />
 <img src="Dynamic Movement/DynamicMovement.gif" width="800" height="450"> 
+
+### Collision Avoidance<br />
++ Unity based project for a formation taht path follows, collision preditics, and cone checks.<br />
+<img src="Collision Avoidance/SpiralWave.gif" width="600" height="338"> <img src="Collision Avoidance/SinWave.gif" width="600" height="338"> 
