@@ -24,3 +24,7 @@ Full video:<br />
 ### MDP Tower Defence Game<br />
 + Unity based project where my team programmed an AI to play our tower defence game using MDP.<br />
 <img src="MDP-TowerDefense/Tower Defense.gif" width="800" height="450"> 
+
+### Dynamic Movement<br />
++ Unity based project where my team programmed two AIs, one that does pathfinding and dynamic evade while the other dynamicly wanders, pursues and arrives..<br />
+<img src="Dynamic Movement/DynamicMovement.gif" width="800" height="450"> 
