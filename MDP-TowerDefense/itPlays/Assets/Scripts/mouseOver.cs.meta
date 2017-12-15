@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8e5a652e2af06094da00a633fce32797
+timeCreated: 1511970853
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - airTowerBut: {instanceID: 0}
+  - groundTowerBut: {instanceID: 0}
+  - airTower: {fileID: 1812082302206734, guid: c7250f8d6b974664ea88bc5fcc6d2658, type: 2}
+  - groundTower: {fileID: 1812082302206734, guid: 0cc781d764357d742ae08b0b712b1660,
+      type: 2}
+  - baseTower: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

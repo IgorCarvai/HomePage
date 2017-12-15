@@ -1,0 +1,51 @@
+For this project we will create an AI to play a tower defense game.
+
+The game will have path with simple AI traveling from one end to the other. 
+The AI we will be programing will be in charge of placing defense.
+
+The AI will be using MDP. 
+To place a tower it will cost it money. The AI cannot go in debt. 
+Another decision will be what the most optimal location is to place a tower. Using the simple AI's location, our AI will use that information to calculate the most optimal locaiton to place a tower.
+Spending all the money is great but our AI would prioritize saving money and getting the job done.
+
+
+Future:
+Our simple AI could be both ground and air units. Where some towers could be ground only, some could be both, while others could be just air.
+
+
+To start off:
+
+The map:
+-A simple grid map with:
+    grass as locations where to spawn towers
+    a dirt road that our simple AI to follow a path
+    a fortress which our AI must defend
+    the fortress would have 100hp and this hp would come into account when our AI is making decisions
+    
+
+The towers:
+    a simple ground or air tower that only damages ground or air units
+        this will do 3 damage per second
+        shooting radius is in a circle
+    a simple tower that does damage to both air and ground units
+        this will do 1.5 damage per second
+        shooting radius is in a circle
+
+Minion AI:
+    one ground and one air unit
+    have the unit spawn every 3 seconds
+    minions will spawn randomly on the outer path of the map
+    the minion AI will use path following to find the best path to the base with least resistant
+
+The AI:
+    will be in charge of spawing towers
+    the map will be completely hidden tot the AI
+    only when it places towers will it gain vision of the map
+    the AI will use MDP with using how much of the map it knows as an uncertanty
+        
+
+After these simple topics have been implemented:
+    We could expand on simple AI such as increasing their health, or speed
+    make more differnt towers
+    maybe add a camoflage simple AI and so on
+        

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3175b99ed827f314e87b4eba17508d53
+timeCreated: 1511978153
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {fileID: 1255856830262878, guid: 7721dc728c26c08489a889a2e28050f2, type: 2}
+  - child: {instanceID: 0}
+  - enemy: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
