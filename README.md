@@ -1,3 +1,10 @@
+### Hello and welcome to my github! <br />
+At Rensselaer Polytechnic Institute, I was able to combine my creative side and my cretical thinking side by getting a dual degree in Computer Science and Game Design.<br />
+Here I have a collection of projects that I have done through out the years.<br /> 
+I hope you enjoy.<br />
+-Igor
+
+
 # Projects:<br />
 
 ### Garden<br />
